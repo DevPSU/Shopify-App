@@ -1,1 +1,3 @@
 # Shopify-App
+
+Work in progess ...
