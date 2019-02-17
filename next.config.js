@@ -2,10 +2,10 @@ const withCSS = require('@zeit/next-css');
 const webpack = require('webpack');
 
 module.exports = withCSS({
-  webpack: config => {
-    const env = { API_KEY: JSON.stringify(process.env.SHOPIFY_API_KEY) };
+    webpack: config => {
+        const env = {API_KEY: JSON.stringify(process.env.SHOPIFY_API_KEY)};
 
-    config.plugins.push(new webpack.DefinePlugin(env));
-    return config;
-  }
+        config.plugins.push(new webpack.DefinePlugin(env));
+        return config;
+    }
 });
