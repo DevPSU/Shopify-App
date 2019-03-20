@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/restAPI.iml" filepath="$PROJECT_DIR$/.idea/restAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/shopify-tutorial-stan.iml" filepath="$PROJECT_DIR$/.idea/shopify-tutorial-stan.iml" />
     </modules>
   </component>
 </project>

@@ -1,6 +1,6 @@
 {
   "devFiles": [
-    "static/development/dll/dll_b0c3ebe5fbad0aa8729d.js"
+    "static/development/dll/dll_43a044928b2ed320053d.js"
   ],
   "pages": {
     "/_app": [
@@ -10,18 +10,6 @@
       "static/runtime/main.js"
     ],
     "/_error": [
-      "static/runtime/webpack.js",
-      "static/runtime/main.js"
-    ],
-    "/index": [
-      "static/runtime/webpack.js",
-      "static/runtime/main.js"
-    ],
-    "/annotated-layout": [
-      "static/runtime/webpack.js",
-      "static/runtime/main.js"
-    ],
-    "/": [
       "static/runtime/webpack.js",
       "static/runtime/main.js"
     ]
