@@ -7,7 +7,7 @@ This project was created by:
 * Louden Maclay - Software Engineer
 * Robert Hsu - Project Manager
 
-This project was tasked by [Wavebreak](https://wavebreak.co/) and completed through [DevPSU](https://acm.psu.edu/devpsu/).
+The web application was made for [Wavebreak](https://wavebreak.co/) and completed as part of [DevPSU](https://acm.psu.edu/devpsu/).
 
 The goal was to make an embedded [Shopify](https://www.shopify.com/) application that could:
 * Determine the most popular products for each purchase
