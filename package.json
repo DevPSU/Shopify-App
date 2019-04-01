@@ -27,5 +27,8 @@
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
     "store-js": "^2.0.4"
+  },
+  "devDependencies": {
+    "file-loader": "^3.0.1"
   }
 }
