@@ -15,25 +15,25 @@ The goal was to make an embedded [Shopify](https://www.shopify.com/) application
 * Find average time between purchases
 
 
-#### Shopify Home:
+### Shopify Home:
 
 
 ![Shopify Home](/src/ShopifyHome.PNG)
 
 
-#### Shopify Popular:
+### Shopify Popular:
 
 
 ![Shopify Popular](/src/ShopifyPopular.PNG)
 
 
-#### Shopify Churn:
+### Shopify Churn:
 
 
 ![Shopify Churn](/src/ShopifyChurn.PNG)
 
 
-#### Shopify TimeBetween:
+### Shopify TimeBetween:
 
 
 ![Shopify Churn](/src/ShopifyTimeBetween.PNG)
