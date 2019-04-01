@@ -1,7 +1,7 @@
 # Shopify Store Analytics
 
 This project was created by:
-* Gabriel Stewart -Software Engineer
+* Gabriel Stewart - Software Engineer
 * Joshua Yan - Software Engineer
 * Stanley Kwok - Software Engineer
 * Louden Maclay - Software Engineer
