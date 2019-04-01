@@ -1,0 +1,44 @@
+[
+    {
+        "id": 0,
+        "name": "Between Any Two",
+        "months": 0,
+        "days": 3,
+        "hours": 4
+    },
+    {
+        "id": 1,
+        "name": "First and Second",
+        "months": 0,
+        "days": 10,
+        "hours": 19
+    },
+    {
+        "id": 2,
+        "name": "Second and Third",
+        "months": 0,
+        "days": 0,
+        "hours": 1
+    },
+    {
+        "id": 3,
+        "name": "Third and Fourth",
+        "months": 0,
+        "days": 0,
+        "hours": 1
+    },
+    {
+        "id": 4,
+        "name": "Fourth and Fifth",
+        "months": 0,
+        "days": 0,
+        "hours": 1
+    },
+    {
+        "id": 5,
+        "name": "Fifth and Sixth",
+        "months": 0,
+        "days": 0,
+        "hours": 1
+    }
+]

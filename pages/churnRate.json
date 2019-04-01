@@ -1,0 +1,32 @@
+[   
+    {
+        "id": 0,
+        "name": "After 1 week",
+        "churn": 26
+    },
+    {
+        "id": 1,
+        "name": "After 1 Month",
+        "churn": 51
+    },
+    {
+        "id": 2,
+        "name": "After 2 Months",
+        "churn": 63
+    },
+    {
+        "id": 3,
+        "name": "After 3 Months",
+        "churn": 77
+    },
+    {
+        "id": 4,
+        "name": "After 1 Year",
+        "churn": 94
+    },
+    {
+        "id": 5,
+        "name": "After 2 Years",
+        "churn": 98
+    }
+]
